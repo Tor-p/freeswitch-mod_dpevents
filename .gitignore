@@ -5,3 +5,6 @@ Makefile.in
 *.o
 .libs
 .deps
+cmake-build-debug/
+build/
+_packages
